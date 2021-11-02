@@ -8,7 +8,6 @@
  *
  * Author: Mohamed Tarek
  ******************************************************************************/
-#include "Port.h"
 #include "Dio.h"
 #include "Led.h"
 

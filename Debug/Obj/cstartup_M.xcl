@@ -1,15 +1,15 @@
-"C:\Users\moham\Desktop\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project\cstartup_M.c"
+"C:\Users\moham\Desktop\Trainings\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project\cstartup_M.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\moham\Desktop\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project\Debug\Obj\cstartup_M.pbi.dep
+C:\Users\moham\Desktop\Trainings\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project\Debug\Obj\cstartup_M.pbi.dep
 -o
 cstartup_M.pbi
 -I
-C:\Users\moham\Desktop\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project
+C:\Users\moham\Desktop\Trainings\MT Embedded\AUTOSAR\AUTOSAR\Final Project\AUTOSAR_Project
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\inc
 -I

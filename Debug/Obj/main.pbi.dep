@@ -1,6 +1,6 @@
 main.pbi: \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Compiler.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Platform_Types.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Std_Types.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Os.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\main.c
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\main.c \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Os.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Std_Types.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Platform_Types.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Compiler.h

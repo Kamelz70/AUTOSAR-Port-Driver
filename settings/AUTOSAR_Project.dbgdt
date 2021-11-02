@@ -998,7 +998,7 @@
             <IarPane-34090>
                 <expressions>
                     <item>current_pin</item>
-                    <item></item>
+                    <item />
                 </expressions>
                 <col-names>
                     <item>Expression</item>

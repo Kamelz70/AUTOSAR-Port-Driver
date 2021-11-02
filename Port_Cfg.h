@@ -44,22 +44,6 @@
 /* The maximum number for setting a mode*/
 #define PORT_MODES_MAX (14)
 
-/*pin mode numbers*/
-#define PORT_PIN_MODE_GPIO ((Port_PinModeType)0)
-#define PORT_PIN_MODE_1 ((Port_PinModeType)1)
-#define PORT_PIN_MODE_2 ((Port_PinModeType)2)
-#define PORT_PIN_MODE_3 ((Port_PinModeType)3)
-#define PORT_PIN_MODE_4 ((Port_PinModeType)4)
-#define PORT_PIN_MODE_5 ((Port_PinModeType)5)
-#define PORT_PIN_MODE_6 ((Port_PinModeType)6)
-#define PORT_PIN_MODE_7 ((Port_PinModeType)7)
-#define PORT_PIN_MODE_8 ((Port_PinModeType)8)
-#define PORT_PIN_MODE_9 ((Port_PinModeType)9)
-#define PORT_PIN_MODE_10 ((Port_PinModeType)10)
-#define PORT_PIN_MODE_11 ((Port_PinModeType)11)
-#define PORT_PIN_MODE_12 ((Port_PinModeType)12)
-#define PORT_PIN_MODE_13 ((Port_PinModeType)13)
-#define PORT_PIN_MODE_14 ((Port_PinModeType)14)
 
 /*
 *       Symbolic pin names

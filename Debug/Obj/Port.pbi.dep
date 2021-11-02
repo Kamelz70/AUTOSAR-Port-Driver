@@ -1,10 +1,10 @@
 Port.pbi: \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Det.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\tm4c123gh6pm_registers.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Common_Macros.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Port_Cfg.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Compiler.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Platform_Types.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Std_Types.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Port.h \
-  C:\Users\moham\Desktop\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Port.c
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project\Port.c \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Port.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Std_Types.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Platform_Types.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Compiler.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Port_Cfg.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Common_Macros.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/tm4c123gh6pm_registers.h \
+  C:\Users\moham\Desktop\Trainings\MT\ Embedded\AUTOSAR\AUTOSAR\Final\ Project\AUTOSAR_Project/Det.h

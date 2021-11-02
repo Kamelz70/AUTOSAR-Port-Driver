@@ -135,10 +135,22 @@ macros for the port initialization STATUS
 typedef uint8 Port_PinType;
 
 /* Type definition for Port_PinModeType used by the PORT APIs */
-typedef uint8 Port_PinModeType;
+typedef enum
+{
+	PORT_PIN_MODE_GPIO,
+	PORT_PIN_MODE_ADC,
+	PORT_PIN_MODE_SPI,
+	PORT_PIN_MODE_PWM,
+	PORT_PIN_MODE_GPT,
+	PORT_PIN_MODE_WDG,
+	PORT_PIN_MODE_UART,
+	PORT_PIN_MODE_CAN,
+	PORT_PIN_MODE_LIN,
+	PORT_PIN_MODE_ICU
+}Port_PinModeType;
 
 /* Description: Enum to hold PIN direction */
-typedef enum
+typedef enum 
 {
     PORT_PIN_IN,
     PORT_PIN_OUT
@@ -152,12 +164,6 @@ typedef enum
     PULL_DOWN
 } Port_InternalResistorType;
 
-/* Description: Enum to hold analog mode setting for PIN */
-typedef enum
-{
-    PORT_DISABLE_ANALOG,
-    PORT_ENABLE_ANALOG
-} Port_AnalogModeType;
 
 /* Description: Structure to configure each individual PIN:
  *	1. the PORT Which the pin belongs to. 0, 1, 2, 3, 4 or 5
@@ -172,7 +178,6 @@ typedef struct
     Port_PinDirectionType direction;
     Port_InternalResistorType resistor;
     Port_PinModeType mode;
-    Port_AnalogModeType analog_mode;
     uint8 initial_value;
     uint8 pin_direction_changeable;
     uint8 pin_mode_changeable;
