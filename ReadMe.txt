@@ -1,3 +1,8 @@
-I created the files for the port driver, to change initialization configuration 
-for the pins, edit the structure in Port_PBcfg.c
+#AUTOSAR Port Driver
+The code is created for a TIVA-C MC
+
+The port driver was fully implemented fitting all standards and specefications for the AUTOSAR
+
+to configure the pins' initialization, edit the port_PBcfg.c file
+
 
